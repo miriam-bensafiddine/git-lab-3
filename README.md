@@ -1,2 +1,2 @@
 # git-lab-3
-let's merge 
+let's merge some conflicts!
